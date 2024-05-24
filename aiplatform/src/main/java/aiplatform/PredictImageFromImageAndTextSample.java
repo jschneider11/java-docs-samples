@@ -41,9 +41,9 @@ public class PredictImageFromImageAndTextSample {
 
   public static void main(String[] args) throws IOException {
     // TODO(developer): Replace this variable before running the sample.
-    String project = "YOUR_PROJECT_ID";
-    String textPrompt = "YOUR_TEXT_PROMPT";
-    String baseImagePath = "YOUR_BASE_IMAGE_PATH";
+    String project = "PROJECT_ID";
+    String textPrompt = "TEXT";
+    String baseImagePath = "BASE_IMAGE_PATH";
 
     // Learn how to use text prompts to update an image:
     // https://cloud.google.com/vertex-ai/docs/generative-ai/image/edit-images
